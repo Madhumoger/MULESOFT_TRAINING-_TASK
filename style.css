@@ -8,7 +8,7 @@ body{
     min-height: 100vh;
     background-color: #5d6d7d;
 }
-.containerr{
+.container{
     max-width: 900px;
     margin: 100px auto;
     width: 100%;
@@ -19,7 +19,7 @@ table{
 
 }
 table th{
-    background-color: red;
+    background-color: yellow;
     color: #fff;
     padding: 10px;
 }
@@ -29,7 +29,7 @@ table tr:nth-child(odd){
 }
 table td{
     padding: 12px;
-    color: #fff;
+    color: black;
     font-size:1em;
     text-align: center;
 }
